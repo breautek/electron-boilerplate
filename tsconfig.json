@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+	"importHelpers": true,
+	"noImplicitAny": true,
+	"noImplicitThis": true,
+	"alwaysStrict": true,
+	"moduleResolution": "node",
+	"target": "es5"
+    }
+}
+
